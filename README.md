@@ -1,4 +1,4 @@
-# valorantBot-repo
+# Valorant-Discord-Bot
 
 V.A.L.O-B.O.T
 
